@@ -1,5 +1,5 @@
-### Encriptador y desencriptador de texto 
-#Este proyecto está realizado con Html, Css y JavaScript
+## Encriptador y desencriptador de texto 
+Este proyecto está realizado con Html, Css y JavaScript
 
 ## Características
 
@@ -9,8 +9,6 @@
 
 ## Cómo usar
 
-### Configuración
-
 1. Clona este repositorio en tu máquina local usando el siguiente comando:
 
     ```bash
@@ -19,15 +17,14 @@
 
 2. Navega hasta la carpeta del proyecto:
 
-    ```bash
-    cd encriptador
-    ```
+  
 
 3. Abre el archivo `index.html` en tu navegador.
 
 ### Uso
 
-1. Ingresa el texto que deseas encriptar o desencriptar en el campo de entrada.
-2. Haz clic en el botón "Encriptar" para encriptar el texto.
-3. Haz clic en el botón "Desencriptar" para desencriptar el texto.
+1. Ingresa el texto que quieres encriptar o desencriptar.
+2. Haz clic en el botón de "Encriptar" o "Desencriptar"
+3. El resultado aparecerá en la parte derecha
+
 
