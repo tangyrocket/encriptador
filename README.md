@@ -1,4 +1,4 @@
-<em> # Encriptador y desencriptador de texto </em>
+### Encriptador y desencriptador de texto 
 #Este proyecto está realizado con Html, Css y JavaScript
 
 ## Características
